@@ -17,7 +17,7 @@ Database is [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-da
 Created a target column based on churn rate and split it into numerical and categorical features. 
 False means that customers did not leave (85.51%).
 True means that they did leave (14.49%).
-![Customer Churn Rate](https://github.com/alvarodriguez95/Churn-in-Telecom/blob/main/Images/Customer%20Churn%20Rate.png?raw=true)
+![Customer Churn Rate](Images/CustomerChurnRate.png)
 
 Specifically sought the churn rate from the customers with a voice-mail plan and customer service calls.
 
