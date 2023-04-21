@@ -22,12 +22,12 @@ True means that they did leave (14.49%).
 Specifically sought the churn rate from the customers with a voice-mail plan and customer service calls.
 
 ## Voice Mail Plan Model
-![VMP](Images/Customer Churn based on VMP.png)
+![VMP](Images/Customer_Churn_based_on_VMP.png)
 403 people with no voice-mail decided to leave (16.72%).
 80 people with a voice-mail plan decided to leave (8.68%).
 
 ## Churn rate by Customer Service Calls
-![
+![Customer Service](Images/Customer_Service_Calls_by_Churn_Rate.png)
 Represents the frequency of customer service calls. Churned customers tend to have a higher number of service calls. Customer service may be a factor for customer retention.
 
 # Models
@@ -39,7 +39,7 @@ KNN                  0.87       0.66       0.29       0.40
 Final Model          0.93       0.79       0.69       0.74      
 
 # Final Model
-![
+![FM](Images/Final_Model.png)
 Based on the classification reports, the final model performs better than the dummy model in terms of accuracy, precision, and F1 score. The final model has higher accuracy (0.93) than the dummy model (0.85), indicating that it correctly classifies more instances. 
 The precision of the final model (0.73) is higher than that of the dummy model (0.00), indicating that the final model is better at identifying true positives. 
 The recall of the final model (0.55) is higher than that of the dummy model (0.00), indicating that the final model is better at correctly identifying all positive instances. 
