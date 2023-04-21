@@ -64,3 +64,10 @@ In order to decrease customer churn rate from SyriaTel, SyriaTel should:
 
 # For More Information
 See the full analysis in the [Jupyter Notebook](https://github.com/alvarodriguez95/Churn-in-Telecom/blob/main/SyriaTel_Churn_Model.ipynb) or review the [presentation](https://github.com/alvarodriguez95/Churn-in-Telecom/blob/main/SyriaTel_Churn_Presentation.pdf).
+
+# Project Structure
+```
+├── README.md
+├── SyriaTel_Churn_Model.ipynb 
+├── SyriaTel_Churn_Presentation.pdf  
+└── .gitignore
