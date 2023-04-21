@@ -1,5 +1,6 @@
 # Churn-in-Telecom
 ![Telecommunications](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYnpLhQOEdyYKHPScIVzt8uVSVQIiixwXZA&usqp=CAU)
+
 Phase 4: Alvaro Rodriguez
 
 # Overview
@@ -11,7 +12,7 @@ I have been contracted by the VP of Customer Service to help improve customer ch
 
 # Data & EDA
 Data regarding customer churn rate was retained from SyriaTel's database in Kaggle.com.
-Database is ![here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
+Database is [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
 
 # Models
 
