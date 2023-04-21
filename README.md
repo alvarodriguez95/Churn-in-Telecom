@@ -22,7 +22,7 @@ True means that they did leave (14.49%).
 Specifically sought the churn rate from the customers with a voice-mail plan and customer service calls.
 
 ## Voice Mail Plan Model
-![VMP](Images/CustomerChurnbasedonVMP.png)
+![VMP](Images/Customer Churn based on VMP.png)
 403 people with no voice-mail decided to leave (16.72%).
 80 people with a voice-mail plan decided to leave (8.68%).
 
